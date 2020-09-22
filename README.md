@@ -8,6 +8,16 @@
 - VScode
 - Rubocop
 
+## Guide
+
+1. generate model for users, cd into /project_dir/ and type this in terminal
+    rails g model User name:string email:string password_digest:string password_confirm:string
+2. add method in model/User.rb
+    has_secure_password
+3. migrate database type in terminal 
+    rails db:migrate
+
+
 ## Author
 
 👤 **Miguel Angel Enciso Sanchez**
