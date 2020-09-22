@@ -1,24 +1,35 @@
-# README
+# User Log In Page and Sessions with Rails 6
+> Taking the sessions and cookies for a test drive. Follow my commits as i try and get this user log in and sessions going xD! Check out the feature branch you know #gitflow ;)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built With
 
-Things you may want to cover:
+- Ruby on Rails
+- sqlite3 for the local development
+- VScode
+- Rubocop
 
-* Ruby version
+## Author
 
-* System dependencies
+👤 **Miguel Angel Enciso Sanchez**
 
-* Configuration
+- Github: [@rootDEV2990](https://github.com/rootDEV2990)
+- Twitter: [@m29902](https://twitter.com/m29902)
+- Linkedin: [linkedin](https://www.linkedin.com/in/miguel-enciso-6474741a1/)
+- Medium: [medium](https://medium.com/@website.dev)
 
-* Database creation
+## 🤝 Contributing
 
-* Database initialization
+Contributions, issues and feature requests are welcome!
 
-* How to run the test suite
+## Show your support
 
-* Services (job queues, cache servers, search engines, etc.)
+Give a ⭐️ if you like this project!
 
-* Deployment instructions
+## Acknowledgments
 
-* ...
+- Microverse
+- Heroku
+## 📝 License
+
+This project is [MIT](LICENSE) licensed.
+
